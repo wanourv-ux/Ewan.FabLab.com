@@ -184,28 +184,6 @@ body{
   background-color: #68b2f7;
 }
 
-button:first-child,
-.btn-primary{
-  background:white;
-  color:black;
-}
-
-button:first-child:hover,
-.btn-primary:hover{
-  transform:translateY(-3px);
-}
-
-button:last-child,
-.btn-secondary{
-  background:rgba(255,255,255,0.08);
-  color:white;
-  border:1px solid rgba(255,255,255,0.1);
-}
-
-button:last-child:hover,
-.btn-secondary:hover{
-  background:rgba(255,255,255,0.15);
-}
 
 /* =========================================================
     PRESENTATION
